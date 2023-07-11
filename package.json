@@ -1,0 +1,19 @@
+{
+  "name": "node-jest-demo",
+  "version": "1.0.0",
+  "description": "Nodejs testing with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Abhishek Thorat",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "superset": "^2.0.1",
+    "supertest": "^6.3.3"
+  }
+}
